@@ -1,17 +1,18 @@
 {
 	"nodes":[
 		{"id":"0708b38bd1e24c22","type":"text","text":"Admin","x":-1120,"y":-720,"width":580,"height":540,"color":"2"},
-		{"id":"2a8285e007b814b3","type":"text","text":"Cliente","x":-445,"y":-720,"width":725,"height":530,"color":"4"},
+		{"id":"2a8285e007b814b3","type":"text","text":"Cliente","x":-445,"y":-720,"width":665,"height":530,"color":"4"},
 		{"id":"a5a5f93e814e84fc","type":"file","file":"proyecto/Cliente/Homepage.md","x":-420,"y":-650,"width":260,"height":170},
-		{"id":"47f70799fb0f7e16","type":"file","file":"proyecto/Cliente/Mis Libros.md","x":-140,"y":-650,"width":400,"height":170},
+		{"id":"47f70799fb0f7e16","type":"file","file":"proyecto/Cliente/Mis Libros.md","x":-140,"y":-650,"width":300,"height":170},
 		{"id":"fdc7c709df94829d","type":"file","file":"proyecto/Admin/Dashboard.md","x":-1030,"y":-595,"width":400,"height":280},
-		{"id":"1c9984666b474d1d","type":"text","text":"Común","x":-830,"y":-160,"width":800,"height":340,"color":"5"},
-		{"id":"ff2cfe003c59c132","type":"file","file":"proyecto/Común/Login.md","x":-630,"y":-115,"width":400,"height":250},
-		{"id":"5247eb5b84714585","type":"text","text":"Base de datos","x":-1180,"y":320,"width":1460,"height":460,"color":"3"},
-		{"id":"9ed57be1cfe1b31f","x":-30,"y":380,"width":220,"height":310,"type":"file","file":"proyecto/Base de datos/Alquiler.md"},
-		{"id":"b4d7a026b69e7caa","x":-420,"y":390,"width":190,"height":290,"type":"file","file":"proyecto/Base de datos/Autor.md"},
-		{"id":"b9d63c1cf7e0e771","x":-790,"y":390,"width":160,"height":290,"type":"file","file":"proyecto/Base de datos/Libro.md"},
-		{"id":"f3301bb036f1ca64","x":-1120,"y":400,"width":160,"height":290,"type":"file","file":"proyecto/Base de datos/Usuario.md"}
+		{"id":"5247eb5b84714585","type":"text","text":"Base de datos","x":-1170,"y":240,"width":1460,"height":460,"color":"3"},
+		{"id":"9ed57be1cfe1b31f","type":"file","file":"proyecto/Base de datos/Alquiler.md","x":-20,"y":300,"width":220,"height":310},
+		{"id":"b9d63c1cf7e0e771","type":"file","file":"proyecto/Base de datos/Libro.md","x":-780,"y":310,"width":160,"height":290},
+		{"id":"b4d7a026b69e7caa","type":"file","file":"proyecto/Base de datos/Autor.md","x":-410,"y":310,"width":190,"height":290},
+		{"id":"f3301bb036f1ca64","type":"file","file":"proyecto/Base de datos/Usuario.md","x":-1110,"y":320,"width":160,"height":290},
+		{"id":"1c9984666b474d1d","type":"text","text":"Común","x":-1120,"y":-140,"width":1320,"height":340,"color":"5"},
+		{"id":"ff2cfe003c59c132","type":"file","file":"proyecto/Común/Login.md","x":-780,"y":-95,"width":310,"height":250},
+		{"id":"b00abe208b31ecca","type":"file","file":"proyecto/Común/Registro.md","x":-440,"y":-95,"width":400,"height":250}
 	],
 	"edges":[
 		{"id":"fc4611d4692161b2","fromNode":"b4d7a026b69e7caa","fromSide":"right","toNode":"5247eb5b84714585","toSide":"bottom"}
