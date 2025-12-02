@@ -14,7 +14,5 @@
 		{"id":"ff2cfe003c59c132","type":"file","file":"proyecto/Común/Login.md","x":-780,"y":-95,"width":310,"height":250},
 		{"id":"b00abe208b31ecca","type":"file","file":"proyecto/Común/Registro.md","x":-440,"y":-95,"width":400,"height":250}
 	],
-	"edges":[
-		{"id":"fc4611d4692161b2","fromNode":"b4d7a026b69e7caa","fromSide":"right","toNode":"5247eb5b84714585","toSide":"bottom"}
-	]
+	"edges":[]
 }
