@@ -1,0 +1,4 @@
+- Usuario (Cliente/Admin)
+- Libro
+- Autor
+- Alquiler
